@@ -1,7 +1,7 @@
 
 /*1. Escribir una función a la que se pasa como parámetro un número entero y 
 devuelve como resultado un texto que indica si el número es par o impar. 
-Mostrar por pantalla el resultado devuelto por la función.*/
+Mostrar por pantalla el resultado devuelto por la función.*/ 
 function getEntero(numero){
     
     var result = numero % 2
