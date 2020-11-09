@@ -3,7 +3,6 @@
 devuelve como resultado un texto que indica si el número es par o impar. 
 Mostrar por pantalla el resultado devuelto por la función.*/ 
 function getEntero(numero){
-    
     var result = numero % 2
 
     if(result === 0){
